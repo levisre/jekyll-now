@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Just another place, behalf of https://ltops9.wordpress.com.
 
-### More Information
+Or it just a place where i can talk about my projects at ![My Github Page](https://github.com/levisre)
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Stay tuned.
